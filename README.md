@@ -1,4 +1,4 @@
-## Примеры выполненных заданий
+## Примеры выполненных тестовых заданий
 
 1. [Написание генератора пользовательских данных по заданым критериям, расчёт MRR и загрузка этих данных в БД Postgres](https://github.com/filipenkovad/examples_of_my_work/blob/main/Semrush/test_task_semrush.ipynb)
 2. [Парсинг JSON файла из NoSQL БД](https://github.com/filipenkovad/examples_of_my_work/blob/main/Beltel/test_tast_beltel.ipynb)
